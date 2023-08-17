@@ -1,0 +1,40 @@
+MSI GAMING@DESKTOP-A6R1OH0 MINGW64 ~/Desktop/software-development/luisRiofrio-160823 (main)
+$ history
+    1  npx create-next-app first_app
+    2  npx create-next-app first_app
+    3  npx create-next-app first_app
+    4  cd first_app
+    5  npm run dev
+    6  . code
+    7  history
+    8  touch main.js index.html
+    9  git status
+   10  git add .
+   11  git commit -m "add index and main"
+   12  git status
+   13  git push origin main
+   14  git checkout main
+   15  git branch feature
+   16  git checkout feature
+   17  mkdir Hardware Software SeguridadInformatica
+   18  cd Hardware/
+   19  touch resume.txt
+   20  cd ..
+   21  cd Software
+   22  touch resumen.txt
+   23  cd ..
+   24  cd SeguridadInformatica
+   25  touch resumen.txt
+   26  git status
+   27  git add .
+   28  git status
+   29  git add .
+   30  git commit -m "add directories"
+   31  git push origin feature
+   32  git checkout main
+   33  cd ..
+   34  ls
+   35  mv main.js resumenHardware.txt
+   36  mv index.html resumenSoftware.txt
+   37  touch comandos.txt
+   38  history
